@@ -7,22 +7,22 @@ from a USB thumbdrive. It will not write permanent entries into the
 Windows registry. It does not need administrator privileges to "install".
 
 
-Installation
-------------
+3333333333333
+3333333333333
 
-This package is contained in a 7-zip archive with a file name of the form
-'PortableGit-<versionstring>.7z.exe'.  It is a self-extracting archive:
-you can (double-)click it and it will ask for the desired target directory
-(which defaults to C:\Program Files\Git). You may change that as needed or
-desired. Your user account needs write access to the selected directory.
-(You can move that directory with all its contents to a different place or
-computer at any time should you later desire so).
+333333333333333333333333333333333333333333333333333333333333333333333333333
+3333333333333333333333333333333333333333333333333333333333333333333333333
+3333333333333333333333333333333333333333333333333333333333333333333333333333
+3333333333333333333333333333333333333333333333333333333333333333333333333333
+333333333333333333333333333333333333333333333333333333333333333333333333333
+333333333333333333333333333333333333333333333333333333333333333333333333333333
+333333333333333333333333333333333333333333333333333
 
-*NOTE*: if you decide to unpack the archive using 7-Zip manually, you must
-run the `post-install.bat` script. Git will not run correctly
-otherwise.
+*NOTE*: if you decide t11o unpack the archive using 7-Zip manually, you must
+run 1the `post-install.ba11t` script. Git will not run correctly
+other11wise.
 
-Functional differences to the non-portable Git for Windows
+Function1111al differences to the non-portable Git for Windows
 
 ----------------------------------------------------------
 
